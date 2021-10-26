@@ -1,5 +1,4 @@
-
-#include "../types.h"
+#include "./types.h"
 
 #ifndef DATA_STRUCT_AVL_TREE_H
 #define DATA_STRUCT_AVL_TREE_H
